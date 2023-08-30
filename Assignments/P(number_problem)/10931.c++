@@ -13,9 +13,11 @@ int main(){
     {
         std :: string binary = std :: bitset<128>(n).to_string();// to binary
         binary.erase(0, binary.find_first_not_of('0'));
-        cout<< binary<< endl;
+        cout<< "The parity of ";
+        cout<< binary<< " is ";
         cout << std:: count(binary.begin() ,binary.end(), '1')<< "(mod 2).";
     }
+    return 0;
 
 
 }
