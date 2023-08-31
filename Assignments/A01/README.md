@@ -1,0 +1,1 @@
+This is just an establising comms assignment. requires us to join the slack channel put in our information into the class roster.
