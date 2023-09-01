@@ -7,26 +7,20 @@ Hashmat’s soldier number is never greater than his opponent
 This is a absolute value problem.*/
 
 #include <iostream>
-#include <math.h>
-#include <fstream>
-#include <string>
+
 
 using namespace std;
 
 int main( ){
+    long long int hashmatarmy, enemyarmy; // decalring the varibables for hash's army and the enemy 
 
-    std:: ifstream inputfile; inputfile.open("inputfile.txt");
+    
+    // while the number in the input file can be read input the values to variables 
+    while( cin>> hashmatarmy >> enemyarmy){
+            // take the absolute value of the two numbers.
+        long long difference = abs(hashmatarmy - enemyarmy);
+        // print the absolute value from the two number from the input file.
+        cout << difference << endl;
+    }
 
-    int x;
-    int y;
-
-    if(inputfile.is_open()){
-        inputfile>> x;
-    };
-
-    inputfile.close();
-    cout << x;
-
-
-
-};
+}
