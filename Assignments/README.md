@@ -9,8 +9,8 @@
 |    5   |    [A05](A05)         | Traffic light problem                       |
 |    6   |    [A06](A06)         |       Hard wood problem                 |
 |    7   |    [A07](A07)         |    Rails problem                    |
-|    8   |    [A08](A08)         |                        |
-|    9   |    [A09](A09)         |                        |
-|    7   |    [A10](A10)         |    Rails problem                    |
-|    8   |    [A11](A11)         |                        |
-|    9   |    [Presentation](presentation)         |                        |
+|    8   |    [A08](A08)         |    Commando                    |
+|    9   |    [A09](A09)         |          error correction              |
+|    7   |    [A10](A10)         |         Amazon             |
+|    8   |    [A11](A11)         |            Emailsending            |
+|    9   |    [Presentation](presentation)         |      presentation problem                  |
