@@ -1,2 +1,3 @@
 Ahmed krubally
 easy brezzy problem
+English, Spanish, German, French, Italian and Russian are the 6 most prominent languages in the countries of European Union. Figure on the left shows intensity of English speaking people in different European countries. All of these languages have different words to repre- sent the English word “HELLO”. For example in Spanish the word equivalent to “HELLO” is “HOLA”. In German, French, Italian and Rus- sian language the word that means (or simi- lar to) “HELLO” is “HALLO”, “BONJOUR”, “CIAO” and “ZDRAVSTVUJTE” respectively. In this problem your task is pretty simple. You will be given one of the six words mentioned above or any other word and you will have to try and detect the language it is from.

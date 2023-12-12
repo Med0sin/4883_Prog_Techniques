@@ -3,3 +3,6 @@ easy brezzy problem
 in this problem we attempt to solve the probelm of parity : We define the parity of an integer n as the sum of the bits in binary representation computed modulo two. As an example,
  the number 21 = 101012 has three 1s in its binary representation so it has parity 3(mod2), or 1.
 In this problem you have to calculate the parity of an integer 1 ≤ I ≤ 2147483647.
+
+pretty easy problem 
+
